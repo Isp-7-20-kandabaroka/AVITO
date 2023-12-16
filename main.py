@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 import time
 from asyncio import sleep
 
-bot = Bot('6705094842:AAFOMtEIBfpKmeTfv62M32D8K3mYKM8TnVk')
+bot = Bot('6988200592:AAGjq7MUagCsPg9cB9ChX7u1g5k8e9lcm38')
 dp = Dispatcher(bot, storage=MemoryStorage())
 
 
